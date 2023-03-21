@@ -93,8 +93,8 @@ Read [Disclaimer](https://github.com/DavidS95/Smokeless_UMAF) and download [Univ
 ## Credits
 
 *   [AMD-OSX](https://forum.amd-osx.com/) Forum and the [dedicated Thread](https://forum.amd-osx.com/threads/amd-rayon-r7-5800h-install-monterey-kernel-panic.2725) users.
-*   ExtremeXT for help, corrections, my [first EFI](https://github.com/ExtremeXT/Lenovo_Legion_5_Hackintosh) reference and README informations.
-*   Telegram Noot group members for UMAF discovery (for me).
+*   ExtremeXT for help, corrections, my [first EFI](https://github.com/ExtremeXT/Lenovo_Legion_5_Hackintosh) reference, the original concept of disable one USB Controller AND README informations.
+*   Telegram Noot group members for introducing the UMAF tool to me.
 *   zxc2689963 for one EFI reference.
 *   [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for the guides.
 *   [DavidS95](https://github.com/DavidS95) for [UMAF](https://github.com/DavidS95/Smokeless_UMAF).
