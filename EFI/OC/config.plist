@@ -353,6 +353,8 @@
 		<dict>
 			<key>PciRoot(0x1)/Pci(0x1,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
+				<key>CFG_LINK_FIXED_MAP</key>
+				<true/>
 				<key>model</key>
 				<string>AMD Radeon Pro RX6600M</string>
 			</dict>
