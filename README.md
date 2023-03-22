@@ -2,6 +2,8 @@
 
 Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Ventura (Monterey plist option added).
 
+![](https://user-images.githubusercontent.com/8891448/227005084-5df1b9a2-9782-447f-9e09-1beb4176f1f5.gif)
+
 ## Considerations
 
 _Information available only for possible references. I do not recommend following all the information presented here. My experience with hackintosh on AMD is only 2 months._
