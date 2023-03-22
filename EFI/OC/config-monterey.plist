@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key># Legion 5600h Ventura 220323</key>
+	<key># Legion 5600h Monterey 220323</key>
 	<string></string>
 	<key>ACPI</key>
 	<dict>
@@ -1184,7 +1184,7 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>Base</key>
-				<string>_cpuid_set_info</string>
+				<string>_cpuid_set_info </string>
 				<key>Comment</key>
 				<string>algrey - _cpuid_set_cpufamily - Force CPUFAMILY_INTEL_PENRYN - 11.3 + / 12.0/13.0</string>
 				<key>Count</key>
@@ -1334,14 +1334,14 @@
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
-				<string>Visual - _thread_unblock - Remove panic on variant TSC #1 - 13.0</string>
+				<string>Visual - _thread_unblock - Remove panic on variant TSC #1 - 12.0</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				SDnGD4enAgAA
+				SDnGD4fgAgAA
 				</data>
 				<key>Identifier</key>
 				<string>kernel</string>
@@ -1351,7 +1351,7 @@
 				<data>
 				</data>
 				<key>MaxKernel</key>
-				<string>22.99.99</string>
+				<string>21.99.99</string>
 				<key>MinKernel</key>
 				<string>21.0.0</string>
 				<key>Replace</key>
@@ -1370,14 +1370,14 @@
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
-				<string>Visual - _thread_quantum_expire - Remove panic on variant TSC #2 - 13.0</string>
+				<string>Visual - _thread_quantum_expire - Remove panic on variant TSC #2 - 12.0</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				TDn+D4ceAwAA
+				TDn+D4dTAwAA
 				</data>
 				<key>Identifier</key>
 				<string>kernel</string>
@@ -1387,7 +1387,7 @@
 				<data>
 				</data>
 				<key>MaxKernel</key>
-				<string>22.99.99</string>
+				<string>21.99.99</string>
 				<key>MinKernel</key>
 				<string>21.0.0</string>
 				<key>Replace</key>
@@ -1406,14 +1406,14 @@
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
-				<string>Visual - thread_invoke - Remove panic on variant TSC #3 - 13.0</string>
+				<string>Visual - thread_invoke - Remove panic on variant TSC #3 - 12.0</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				SItwWEw55g+HWQUAAA==
+				SItwWEw57g+HJAUAAA==
 				</data>
 				<key>Identifier</key>
 				<string>kernel</string>
@@ -1423,12 +1423,12 @@
 				<data>
 				</data>
 				<key>MaxKernel</key>
-				<string>22.99.99</string>
+				<string>21.99.99</string>
 				<key>MinKernel</key>
 				<string>21.0.0</string>
 				<key>Replace</key>
 				<data>
-				SItwWEw55maQZpBmkA==
+				SItwWEw57maQZpBmkA==
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -1442,14 +1442,14 @@
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
-				<string>Visual - thread_invoke - Remove panic on variant TSC #4 - 13.0</string>
+				<string>Visual - thread_invoke - Remove panic on variant TSC #4 - 12.0</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				TDujgAQAAA+CKAUAAA==
+				TDurgAQAAA+C8wQAAA==
 				</data>
 				<key>Identifier</key>
 				<string>kernel</string>
@@ -1459,12 +1459,12 @@
 				<data>
 				</data>
 				<key>MaxKernel</key>
-				<string>22.99.99</string>
+				<string>21.99.99</string>
 				<key>MinKernel</key>
 				<string>21.0.0</string>
 				<key>Replace</key>
 				<data>
-				TDujgAQAAGaQZpBmkA==
+				TDurgAQAAGaQZpBmkA==
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -1478,7 +1478,7 @@
 				<key>Base</key>
 				<string>_thread_dispatch</string>
 				<key>Comment</key>
-				<string>Visual - _thread_dispatch - Remove panic on variant TSC #5 - 12.0/13.0</string>
+				<string>Visual - _thread_dispatch - Remove panic on variant TSC #5 - 12.0</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
@@ -1495,7 +1495,7 @@
 				<data>
 				</data>
 				<key>MaxKernel</key>
-				<string>22.99.99</string>
+				<string>21.99.99</string>
 				<key>MinKernel</key>
 				<string>21.0.0</string>
 				<key>Replace</key>
