@@ -1,4 +1,4 @@
-# macOS on Lenovo Legion 5-15ACH6A - 5600H & 6600m
+# macOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H & Radeon RX 6600m
 
 Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Ventura (Monterey plist option added).
 
