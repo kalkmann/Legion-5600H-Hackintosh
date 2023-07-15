@@ -179,14 +179,8 @@ Almost done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 
 ## Screenshots
 
-![](https://user-images.githubusercontent.com/8891448/226888028-5f9c4251-e846-4ab4-8f02-fda1331d3956.png)
+![screen2](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/0340a459-ccde-4dab-ae11-848c5fc8acb7)
 
-![](https://user-images.githubusercontent.com/8891448/226888077-3860c501-02d3-4d97-a554-f60a4fc7b129.png)
 
-![](https://user-images.githubusercontent.com/8891448/226588277-f24bbb40-2b7a-44b7-9305-ad03eef79233.png)
-
-![](https://user-images.githubusercontent.com/8891448/226589259-afdd018e-838e-47c4-9460-7d84316991ca.png)
-
-![](https://user-images.githubusercontent.com/8891448/226888254-0c2ba9cc-a117-4fb8-9679-ee0443b70b9f.png)
 
 ![](https://user-images.githubusercontent.com/8891448/226888305-f90ebc45-3d6c-48f8-ba0c-c93792641e89.png)
