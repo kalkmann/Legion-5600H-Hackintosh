@@ -180,7 +180,3 @@ Almost done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 ## Screenshots
 
 ![screen2](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/0340a459-ccde-4dab-ae11-848c5fc8acb7)
-
-
-
-![](https://user-images.githubusercontent.com/8891448/226888305-f90ebc45-3d6c-48f8-ba0c-c93792641e89.png)
