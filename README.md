@@ -89,7 +89,7 @@ _Information available only for possible references. I do not recommend followin
 | Item | Status | Notes |
 | --- | --- | --- |
 | CPU | ✅ | AMD Vanilla Kernel Patches ([Modify according to yours Core Count](https://github.com/AMD-OSX/AMD_Vanilla)) |
-| DGPU | ✅ | Only with some DeviceProperties |
+| DGPU | ✅ | With some DeviceProperties |
 | Brightness Control | ✅ | With Lunar app |
 | HDMI A/V out | ✅ |   |
 | USB | ✅ | Only rear ports - [XHC1 controller disabled](#umaf-tool---disable-xhc1) |
@@ -97,11 +97,11 @@ _Information available only for possible references. I do not recommend followin
 | Audio | ✅ | AppleALC kext working with layout-id 21 |
 | Trackpad | ✅ | VoodooI2C |
 | Ethernet | ✅ | RealtekRTL8111 Kext |
-| Intel WIFI | ✅ | Itlwm Kext and HeliPort app |
+| Intel WIFI | ✅ | AirportItlwm Kext |
 | Bluetooth | ✅ | External USB Dongle - BlueToolFixup Kext |
 | Battery | ✅ | VoodooBatteryStatus Kext |
-| AppleTV+ DRM | ✅ | Only with CFG_LINK_FIXED_MAP=1 |
-| iServices | ✅ | Message/Facetime tested, working |
+| AppleTV+ DRM | ✅ | Work with CFG_LINK_FIXED_MAP=1 |
+| iServices | ✅ | Message/Facetime tested and working |
 | Shutdown/Reboot | ✅ |   |
 
 ## What's not Working
@@ -109,7 +109,7 @@ _Information available only for possible references. I do not recommend followin
 | Item | Status | Notes |
 | --- | --- | --- |
 | [XHC1 USB Controller](#umaf-tool---disable-xhc1) | ❓ | For some reason, with both controllers activated, random freezes occurs. Only XHC0 enabled (rear ports): 3 3.2 USB-A + 1 3.2 USB-C |
-| Sleep | ❓ | DGPU's powerplay plus TSC issue (I guess) |
+| Sleep | ❓ | DGPU's powerplay + TSC issues |
 
 ## Bios Options
 
@@ -144,24 +144,21 @@ Read [Disclaimer](https://github.com/DavidS95/Smokeless_UMAF) and download [Univ
 | [RestrictEvents.kext](https://github.com/acidanthera/RestrictEvents) | Blocking unwanted processes causing compatibility issues on different hardware and unlocking the support for certain features restricted to other hardware |
 | [SMCAMDProcessor.kext](https://github.com/trulyspinach/SMCAMDProcessor) | Power management and monitoring of AMD processors |
 | [SMCBatteryManager.kext](https://github.com/acidanthera/VirtualSMC) | Enables battery readings |
-| [SMCRadeonGPU.kext](https://github.com/aluveitie/RadeonSensor) | Provide GPU temperature to a dedicated gadget |
 | [USBToolBox.kext](https://github.com/USBToolBox/kext) | Common actions for USB mapping easier |
 | [UTBMap.kext](https://github.com/USBToolBox/tool) | USB Map performed with the USBToolbox tool on Windows 11 |
 | [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | Advanced Apple SMC emulator in the kernel |
 | [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) | Fixes keyboard |
-| [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | Fixes AMD GPU |
+| [VoodooI2C.kext & VoodooU2CHID.kext](https://github.com/VoodooI2C) | Fixes trackpad |
 
 
 ## SSDTs Used
 
-Almost done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
+Done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 
 | Table | Description |
 | --- | --- |
 | [SSDT-EC](https://github.com/corpnewt/SSDTTime) | Adds a fake Embedded Controller device |
-| [SSDT-HPET](https://github.com/corpnewt/SSDTTime) | Fixes IRQ conflicts |
 | [SSDT-PLUG-ALT](https://github.com/corpnewt/SSDTTime) | Fixes CPU definitions |
-| [SSDT-SBUS-MCHC](https://dortania.github.io/Getting-Started-With-ACPI/Universal/smbus-methods/manual.html#finding-the-acpi-path) | Fixes AppleSMBus |
 | [SSDT-USBX](https://github.com/corpnewt/SSDTTime) | Enables USB Power Management |
 | [SSDT-XOSI](https://github.com/corpnewt/SSDTTime) | Spoof macOS to Windows for some ACPI features |
 
@@ -170,7 +167,7 @@ Almost done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 *   [AMD-OSX](https://forum.amd-osx.com/) Forum and the [dedicated Thread](https://forum.amd-osx.com/threads/amd-rayon-r7-5800h-install-monterey-kernel-panic.2725) users.
 *   ExtremeXT for help, corrections, my [first EFI](https://github.com/ExtremeXT/Lenovo_Legion_5_Hackintosh) reference, the original concept of disable one USB Controller AND README informations.
 *   Telegram Noot group members for mention UMAF tool.
-*   zxc2689963 for one EFI reference.
+*   zxc2689963 for EFI references.
 *   [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for the guides.
 *   [DavidS95](https://github.com/DavidS95) for [UMAF](https://github.com/DavidS95/Smokeless_UMAF).
 *   [Apple](https://www.apple.com/) for macOS.
