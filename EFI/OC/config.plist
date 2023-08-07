@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#OC0.9.4 - Ventura 13.4 MacBookPro16,3</key>
-	<string>kalkmann 070823</string>
+	<key>#OC0.9.3 - Ventura 13.4 MacBookPro16,3</key>
+	<string>kalkmann 160623</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
