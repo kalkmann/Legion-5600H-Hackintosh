@@ -53,7 +53,7 @@ _Information available only for possible references. I do not recommend followin
 | Trackpad | ✅ | VoodooI2C |
 | Ethernet | ✅ | RealtekRTL8111 Kext |
 | Intel WIFI | ✅ | AirportItlwm Kext |
-| Bluetooth | ✅ | External USB Dongle - BlueToolFixup Kext |
+| Bluetooth | ✅ | Internal Intel combo card with IntelBluetoothFirmware.kext + BlueToolFixup Kext |
 | Battery | ✅ | VoodooBatteryStatus Kext |
 | AppleTV+ DRM | ✅ | Work with CFG_LINK_FIXED_MAP=1 |
 | iServices | ✅ | Message/Facetime tested and working |
@@ -79,6 +79,8 @@ _Information available only for possible references. I do not recommend followin
 | [AMDRyzenCPUPowerManagement.kext](https://github.com/trulyspinach/SMCAMDProcessor) | Power management and monitoring of AMD processors |
 | [AppleALC.kext](https://github.com/acidanthera/AppleALC) | Native macOS HD audio for not officially supported codecs |
 | [AppleMCEReporterDisabler.kext](https://files.amd-osx.com/AppleMCEReporterDisabler.kext.zip) | Disables AppleIntelMCEReporter which causes panics on AMD CPUs |
+| [IntelBTPatcher.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | Intel Bluetooth Kernel Extensions for macOS |
+| [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | Intel Bluetooth Kernel Extensions for macOS |
 | [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | Patches Bluetooth stack to allow non-Apple Bluetooth |
 | [GUX-RyzenXHCIFix](https://github.com/RattletraPM/GUX-RyzenXHCIFix) | A fork of GenericUSBXHCI aimed at analyzing and fixing the USB3 |
 | [Lilu.kext](https://github.com/acidanthera/Lilu) | Platform for arbitrary kext, library, and program patching throughout the system |
