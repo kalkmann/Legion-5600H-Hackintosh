@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#OC0.9.5 - Ventura 13.5.2 MacBookPro16,3</key>
-	<string>kalkmann 160623</string>
+	<key>#OC0.9.6 - Sonoma 14.0 MacBookPro16,3</key>
+	<string>kalkmann 081123</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -192,6 +192,8 @@
 			<key>EnableSafeModeSlide</key>
 			<true/>
 			<key>EnableWriteUnprotector</key>
+			<false/>
+			<key>FixupAppleEfiImages</key>
 			<false/>
 			<key>ForceBooterSignature</key>
 			<false/>
