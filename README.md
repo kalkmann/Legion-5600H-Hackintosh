@@ -4,6 +4,8 @@ Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS S
 
 ![print-oc096](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/03994a13-7373-4073-98da-f48412df28c3)
 
+![Sleep-Wake](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02)
+
 ## Considerations
 
 _Information available only for possible references. I do not recommend following all the information presented here._
@@ -24,7 +26,7 @@ _Information available only for possible references. I do not recommend followin
 | Item  | Info  |
 | ------------ | ------------ |
 | Model  | Legion 5-15ACH6A Type 82NW  |
-| Bios Version  | G9CN32WW  |
+| Bios Version  | G9CN36WW  |
 | CPU  |  AMD Ryzen™ 5 5600H Processor |
 |  DGPU | AMD Radeon RX 6600M 8GB  |
 | RAM  | 2x 16GB Kingston DDR4 2400/3200 MHz  |
