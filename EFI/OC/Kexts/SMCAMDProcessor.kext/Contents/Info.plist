@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>20G80</string>
+	<string>22F82</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -27,19 +27,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>12E507</string>
+	<string></string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>11.3</string>
+	<string>13.3</string>
 	<key>DTSDKBuild</key>
-	<string>20E214</string>
+	<string>22E245</string>
 	<key>DTSDKName</key>
-	<string>macosx11.3</string>
+	<string>macosx13.3</string>
 	<key>DTXcode</key>
-	<string>1251</string>
+	<string>1431</string>
 	<key>DTXcodeBuild</key>
-	<string>12E507</string>
+	<string>14E300c</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>wtf.spinach.SMCAMDProcessor</key>
@@ -55,9 +55,9 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.13</string>
+	<string>10.15</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2020 trulyspinach. All rights reserved.</string>
+	<string>Copyright © 2023 trulyspinach. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>as.vit9696.Lilu</key>

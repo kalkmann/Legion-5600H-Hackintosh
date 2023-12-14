@@ -39,9 +39,9 @@
 	<key>DTSDKName</key>
 	<string>macosx13.3</string>
 	<key>DTXcode</key>
-	<string>1431</string>
+	<string>1430</string>
 	<key>DTXcodeBuild</key>
-	<string>14E300c</string>
+	<string>14E222b</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>GenericUSBXHCI</key>
