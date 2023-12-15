@@ -1,12 +1,14 @@
-# macOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H & Radeon RX 6600M 🇧🇷
+<h2 style="text-align:center">macOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H &amp; Radeon RX 6600M 🇧🇷</h2>
 
-Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sonoma.
+<h2 style="text-align:center"><img alt="" src="https://rallybr.com.br/logo-hacklegion.png" style="height:149px; width:120px" /></h2>
 
-![Static Badge](https://img.shields.io/badge/Bios_Version-GKCN36WW-blue?logo=lenovo&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Opencore_Version-0.9.8-black) ![Static Badge](https://img.shields.io/badge/MacOS_Version-Sonoma%2014.2-green?logo=apple&logoColor=%23fff)
+<p style="text-align:center">Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sonoma.</p>
 
-![print-oc096](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/03994a13-7373-4073-98da-f48412df28c3)
+<p style="text-align:center"><img alt="" src="https://img.shields.io/badge/Bios_Version-GKCN36WW-blue?logo=lenovo&amp;logoColor=%23fff" />&nbsp;<img alt="" src="https://img.shields.io/badge/Opencore_Version-0.9.8-black" />&nbsp;<img alt="" src="https://img.shields.io/badge/MacOS_Version-Sonoma%2014.2-green?logo=apple&amp;logoColor=%23fff" /></p>
 
-![Sleep-Wake](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02)
+<p style="text-align:center"><img alt="" src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/03994a13-7373-4073-98da-f48412df28c3" /></p>
+
+<p style="text-align:center"><img alt="" src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02" style="height:54px; width:300px" /></p>
 
 ## Considerations
 
