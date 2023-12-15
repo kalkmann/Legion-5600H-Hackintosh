@@ -1,10 +1,11 @@
 # macOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H & Radeon RX 6600M 🇧🇷
 
-Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sonoma. **Working in latest BIOS Version GKCN36WW (dec 23).**
-
+Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sonoma.
+<div style="text-align:center">![Static Badge](https://img.shields.io/badge/Bios_Version-GKCN36WW-blue?logo=lenovo&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Opencore_Version-0.9.8-black) ![Static Badge](https://img.shields.io/badge/MacOS_Version-Sonoma%2014.2-green?logo=apple&logoColor=%23fff)
+</div>
 ![print-oc096](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/03994a13-7373-4073-98da-f48412df28c3)
 
-![Sleep-Wake](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02)
+<div style="text-align:center"><img src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02" width="300" /></div>
 
 ## Considerations
 
@@ -48,7 +49,7 @@ _Information available only for possible references. I do not recommend followin
 | DGPU | ✅ | With some DeviceProperties |
 | Brightness Control | ✅ | With [Lunar app](https://lunar.fyi/ "Lunar app") |
 | HDMI A/V out | ✅ |   |
-| USB | ✅ | All ports working with **[GUX-RyzenXHCIFix](https://github.com/RattletraPM/GUX-RyzenXHCIFix "GUX-RyzenXHCIFix")** /[USBMap](https://github.com/corpnewt/USBMap "USBMap")|
+| USB | ✅ | All ports working with **[GUX-RyzenXHCIFix](https://github.com/RattletraPM/GUX-RyzenXHCIFix "GUX-RyzenXHCIFix")** / [USBMap](https://github.com/corpnewt/USBMap "USBMap")|
 | Keyboard | ✅ | Voodoops2controller Kext + [Karabiner-Elements app](https://karabiner-elements.pqrs.org/ "Karabiner-Elements app") for mapping |
 | Audio | ✅ | AppleALC kext working with layout-id 21 |
 | P2 Mic | ✅ | Working with AppleALC 1.8.8 |
@@ -60,13 +61,13 @@ _Information available only for possible references. I do not recommend followin
 | AppleTV+ DRM | ✅ | Work with CFG_LINK_FIXED_MAP=1 |
 | iServices | ✅ | Message/Facetime tested and working |
 | Shutdown/Reboot | ✅ |   |
-| Sleep/Wake | ✅ | Finally working with Seey [CpuTscSync](https://github.com/Seey6/CpuTscSync "CpuTscSync") and SSDT for USB |
+| Sleep/Wake | ✅ | Finally working with Seey6 [CpuTscSync](https://github.com/Seey6/CpuTscSync "CpuTscSync") and SSDT for USB |
 
 ## What's not Working
 
 | Item | Status | Notes |
 | --- | --- | --- |
-|  | ❓ |   |
+| ❓ |  |   |
 
 ## Bios Options
 
