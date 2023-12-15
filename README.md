@@ -1,11 +1,11 @@
 # macOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H & Radeon RX 6600M 🇧🇷
 
 Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sonoma.
-<div style="text-align:center">![Static Badge](https://img.shields.io/badge/Bios_Version-GKCN36WW-blue?logo=lenovo&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Opencore_Version-0.9.8-black) ![Static Badge](https://img.shields.io/badge/MacOS_Version-Sonoma%2014.2-green?logo=apple&logoColor=%23fff)
-</div>
+![Static Badge](https://img.shields.io/badge/Bios_Version-GKCN36WW-blue?logo=lenovo&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Opencore_Version-0.9.8-black) ![Static Badge](https://img.shields.io/badge/MacOS_Version-Sonoma%2014.2-green?logo=apple&logoColor=%23fff)
+
 ![print-oc096](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/03994a13-7373-4073-98da-f48412df28c3)
 
-<div style="text-align:center"><img src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02" width="300" /></div>
+<img src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02" width="300" />
 
 ## Considerations
 
