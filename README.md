@@ -1,14 +1,11 @@
-<h2 style="text-align:center">macOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H &amp; Radeon RX 6600M 🇧🇷</h2>
+<p align="center">
+<h2  align="center">macOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H &amp; Radeon RX 6600M 🇧🇷</h2>
+<img src="https://rallybr.com.br/logo-hacklegion.png" alt="" width="129" height="160" /></p>
 
-<h2 style="text-align:center"><img alt="" src="https://rallybr.com.br/logo-hacklegion.png" style="height:149px; width:120px" /></h2>
-
-<p style="text-align:center">Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sonoma.</p>
-
-<p style="text-align:center"><img alt="" src="https://img.shields.io/badge/Bios_Version-GKCN36WW-blue?logo=lenovo&amp;logoColor=%23fff" />&nbsp;<img alt="" src="https://img.shields.io/badge/Opencore_Version-0.9.8-black" />&nbsp;<img alt="" src="https://img.shields.io/badge/MacOS_Version-Sonoma%2014.2-green?logo=apple&amp;logoColor=%23fff" /></p>
-
-<p style="text-align:center"><img alt="" src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/03994a13-7373-4073-98da-f48412df28c3" /></p>
-
-<p style="text-align:center"><img alt="" src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02" style="height:54px; width:300px" /></p>
+<p align="center">Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sonoma.</p>
+<p align="center"><img src="https://img.shields.io/badge/Bios_Version-GKCN36WW-blue?logo=lenovo&amp;logoColor=%23fff" alt="" />&nbsp;<img src="https://img.shields.io/badge/Opencore_Version-0.9.8-black" alt="" />&nbsp;<img src="https://img.shields.io/badge/MacOS_Version-Sonoma%2014.2-green?logo=apple&amp;logoColor=%23fff" alt="" /></p>
+<p align="center"><img src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/03994a13-7373-4073-98da-f48412df28c3" alt="" /></p>
+<p align="center"><img src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/f51cd1f4-225c-4b58-968e-bda1becc2b02" alt=""  width="300" /></p>
 
 ## Considerations
 
