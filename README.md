@@ -1,6 +1,7 @@
 <p align="center">
 <h2  align="center">macOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H &amp; Radeon RX 6600M 🇧🇷</h2>
-<img src="https://rallybr.com.br/logo-hacklegion.png" alt="" width="129" height="160" align="center"/></p>
+<img src="https://rallybr.com.br/logo-hacklegion.png" alt="" width="129" align="center" />
+</p>
 
 <p align="center">Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sonoma.</p>
 <p align="center"><img src="https://img.shields.io/badge/Bios_Version-GKCN36WW-blue?logo=lenovo&amp;logoColor=%23fff" alt="" />&nbsp;<img src="https://img.shields.io/badge/Opencore_Version-0.9.8-black" alt="" />&nbsp;<img src="https://img.shields.io/badge/MacOS_Version-Sonoma%2014.2-green?logo=apple&amp;logoColor=%23fff" alt="" /></p>
