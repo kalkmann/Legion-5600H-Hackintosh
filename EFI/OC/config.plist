@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#OC0.9.8 - Sonoma 14.2 MacBookPro16,3</key>
+	<key>#OC1.0.0 DEV - Sonoma 14.4 MacBookPro16,3</key>
 	<string>kalkmann 131223</string>
 	<key>ACPI</key>
 	<dict>
@@ -389,7 +389,7 @@
 				<key>BundlePath</key>
 				<string>AirportItlwm.kext</string>
 				<key>Comment</key>
-				<string>AirportItlwm.kext</string>
+				<string>V2.3.0 | AirportItlwm.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -407,7 +407,7 @@
 				<key>BundlePath</key>
 				<string>AppleMCEReporterDisabler.kext</string>
 				<key>Comment</key>
-				<string>AppleMCEReporterDisabler.kext</string>
+				<string>V1.2 | AppleMCEReporterDisabler.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -425,7 +425,7 @@
 				<key>BundlePath</key>
 				<string>GenericUSBXHCI.kext</string>
 				<key>Comment</key>
-				<string>GenericUSBXHCI.kext</string>
+				<string>V1.3.0b2 | GenericUSBXHCI.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -443,7 +443,7 @@
 				<key>BundlePath</key>
 				<string>IntelBluetoothFirmware.kext</string>
 				<key>Comment</key>
-				<string>IntelBluetoothFirmware.kext</string>
+				<string>V2.3.0 | IntelBluetoothFirmware.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -461,7 +461,7 @@
 				<key>BundlePath</key>
 				<string>Lilu.kext</string>
 				<key>Comment</key>
-				<string>Lilu.kext</string>
+				<string>V1.6.8 | Lilu.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -479,7 +479,7 @@
 				<key>BundlePath</key>
 				<string>NVMeFix.kext</string>
 				<key>Comment</key>
-				<string>NVMeFix.kext</string>
+				<string>V1.1.1 | NVMeFix.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -497,7 +497,7 @@
 				<key>BundlePath</key>
 				<string>RealtekRTL8111.kext</string>
 				<key>Comment</key>
-				<string>RealtekRTL8111.kext</string>
+				<string>V2.4.2 | RealtekRTL8111.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -515,7 +515,7 @@
 				<key>BundlePath</key>
 				<string>RestrictEvents.kext</string>
 				<key>Comment</key>
-				<string>RestrictEvents.kext</string>
+				<string>V1.1.3 | RestrictEvents.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -533,7 +533,7 @@
 				<key>BundlePath</key>
 				<string>USBMap.kext</string>
 				<key>Comment</key>
-				<string>USBMap.kext</string>
+				<string>V1.0 | USBMap.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -551,7 +551,7 @@
 				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
-				<string>VirtualSMC.kext</string>
+				<string>V1.3.3</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -569,7 +569,7 @@
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext</string>
 				<key>Comment</key>
-				<string>VoodooPS2Controller.kext</string>
+				<string>V2.3.5</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -587,7 +587,7 @@
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
 				<key>Comment</key>
-				<string>VoodooPS2Keyboard.kext</string>
+				<string>V2.3.5</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -605,7 +605,7 @@
 				<key>BundlePath</key>
 				<string>VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext</string>
 				<key>Comment</key>
-				<string>VoodooGPIO.kext</string>
+				<string>V1.1</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -623,7 +623,7 @@
 				<key>BundlePath</key>
 				<string>VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext</string>
 				<key>Comment</key>
-				<string>VoodooI2CServices.kext</string>
+				<string>V1</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -641,7 +641,7 @@
 				<key>BundlePath</key>
 				<string>VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext</string>
 				<key>Comment</key>
-				<string>VoodooInput.kext</string>
+				<string>V1.1.4</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -659,7 +659,7 @@
 				<key>BundlePath</key>
 				<string>AMDRyzenCPUPowerManagement.kext</string>
 				<key>Comment</key>
-				<string>AMDRyzenCPUPowerManagement.kext</string>
+				<string>V0.7.1 | AMDRyzenCPUPowerManagement.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -677,7 +677,7 @@
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
-				<string>AppleALC.kext</string>
+				<string>V1.9.0 | AppleALC.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -695,7 +695,7 @@
 				<key>BundlePath</key>
 				<string>BlueToolFixup.kext</string>
 				<key>Comment</key>
-				<string>BlueToolFixup.kext</string>
+				<string>V2.6.8 | BlueToolFixup.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -713,7 +713,7 @@
 				<key>BundlePath</key>
 				<string>CpuTscSync.kext</string>
 				<key>Comment</key>
-				<string>CpuTscSync.kext</string>
+				<string>V1.1.1 | CpuTscSync.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -731,7 +731,7 @@
 				<key>BundlePath</key>
 				<string>IntelBTPatcher.kext</string>
 				<key>Comment</key>
-				<string>IntelBTPatcher.kext</string>
+				<string>V2.3.0 | IntelBTPatcher.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -749,7 +749,7 @@
 				<key>BundlePath</key>
 				<string>SMCAMDProcessor.kext</string>
 				<key>Comment</key>
-				<string>SMCAMDProcessor.kext</string>
+				<string>V1 | SMCAMDProcessor.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -767,7 +767,7 @@
 				<key>BundlePath</key>
 				<string>SMCBatteryManager.kext</string>
 				<key>Comment</key>
-				<string>SMCBatteryManager.kext</string>
+				<string>V1.3.3 | SMCBatteryManager.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -785,7 +785,7 @@
 				<key>BundlePath</key>
 				<string>VoodooI2C.kext</string>
 				<key>Comment</key>
-				<string>VoodooI2C.kext</string>
+				<string>V2.8</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -803,7 +803,7 @@
 				<key>BundlePath</key>
 				<string>VoodooI2CHID.kext</string>
 				<key>Comment</key>
-				<string>VoodooI2CHID.kext</string>
+				<string>V1</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -1963,7 +1963,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 revpatch=sbvmm</string>
+				<string>keepsyms=1 debug=0x100 revpatch=sbvmm -cputsclock revblock=media</string>
 				<key>csr-active-config</key>
 				<data>
 				hwcAAA==
@@ -2034,14 +2034,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02034902GU00001H</string>
+			<string></string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
 			<data>
-			nIugD9vM
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -2050,9 +2049,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D8HYVP3XY</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>A678AE59-E420-436F-998A-74371D58FF68</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
