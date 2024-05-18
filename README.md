@@ -19,7 +19,7 @@ _Information available only for possible references. I do not recommend followin
 *   [Kexts Used](#kexts-used)
 *   [SSDTs Used](#ssdts-used)
 *   [Credits](#credits)
-*   [Useful Apps & Scripts](#useful-apps-&-scripts)
+*   [Useful Apps & Scripts](#useful-apps--scripts)
 *   [Screenshots](#screenshots)
 
 ## Specifications
