@@ -143,6 +143,10 @@ Done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 | [Karabiner Elements](https://karabiner-elements.pqrs.org/) | A powerful and stable keyboard customizer for macOS |
 | [Barrier](https://github.com/debauchee/barrier) | allow you to use a single keyboard and mouse to control multiple computers |
 
+## Something helped? Leave a star!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kalkmann/Legion-5600H-Hackintosh&type=Date)](https://star-history.com/#kalkmann/Legion-5600H-Hackintosh&Date)
+
 ## Screenshots
 
 ![screen6](https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/fe7eedd1-a334-4de2-acb9-3c9afef29bd1)
