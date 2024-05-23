@@ -98,7 +98,7 @@ _Information available only for possible references. I do not recommend followin
 | [USBMap](https://github.com/corpnewt/USBMap "USBMap") | Python script for mapping USB ports in macOS and creating a custom injector kext |
 | [USBWakeFixup](https://github.com/osy/USBWakeFixup) | Fix a certain USB wakeup issue on OSX |
 | [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | Advanced Apple SMC emulator in the kernel |
-| [VoodooI2C.kext & VoodooU2CHID.kext](https://nootinc.github.io/Extras/Kexts/VoodooI2C.zip) | Fixes trackpad |
+| [VoodooI2C.kext & VoodooU2CHID.kext](https://chefkissinc.github.io/Extras/Kexts/VoodooI2C.zip) | Fixes trackpad |
 | [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) | Fixes keyboard |
 
 
