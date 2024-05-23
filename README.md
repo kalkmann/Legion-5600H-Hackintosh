@@ -1,9 +1,9 @@
 <p align="center">
  <img width="129px" src="https://rallybr.com.br/logo-hacklegion.png" align="center" />
  <h2 align="center">MacOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H &amp; Radeon RX 6600M 🇧🇷</h2>
- <p align="center">Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running MacOS Sonoma. Probably compatible with R70002021A 6600M variant.</p>
+ <p align="center">Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running MacOS Sonoma. Probably compatible with R70002021A 6600M variant/Legion x60AA Gen AMD.</p>
 </p>
-<p align="center"><img src="https://img.shields.io/badge/Bios-GKCN36WW-blue?logo=lenovo&amp;logoColor=%23fff" alt="" />&nbsp;<img src="https://img.shields.io/badge/Opencore-1.0.1 DEV-black" alt="" />&nbsp;<img src="https://img.shields.io/badge/MacOS-Sonoma%2014.5-green?logo=apple&amp;logoColor=%23fff" alt="" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Bios-GKCN37WW-blue?logo=lenovo&amp;logoColor=%23fff" alt="" />&nbsp;<img src="https://img.shields.io/badge/Opencore-1.0.1 DEV-black" alt="" />&nbsp;<img src="https://img.shields.io/badge/MacOS-Sonoma%2014.5-green?logo=apple&amp;logoColor=%23fff" alt="" /></p>
 <p align="center"><img src="https://github.com/kalkmann/Legion-5600H-Hackintosh/assets/8891448/e4588b17-d283-407a-8f48-2de65a5b73df" alt="" /></p>
 
 ## Considerations
@@ -27,7 +27,7 @@ _Information available only for possible references. I do not recommend followin
 | Item  | Info  |
 | ------------ | ------------ |
 | Model  | Legion 5-15ACH6A Type 82NW  |
-| Bios Version  | G9CN36WW  |
+| Bios Version  | G9CN37WW  |
 | CPU  |  AMD Ryzen™ 5 5600H Processor |
 |  DGPU | AMD Radeon RX 6600M 8GB  |
 | RAM  | 2x 16GB Kingston DDR4 2400/3200 MHz  |
@@ -142,6 +142,10 @@ Done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 | [Lunar](https://lunar.fyi/) | The defacto app for controlling monitors |
 | [Karabiner Elements](https://karabiner-elements.pqrs.org/) | A powerful and stable keyboard customizer for macOS |
 | [Barrier](https://github.com/debauchee/barrier) | allow you to use a single keyboard and mouse to control multiple computers |
+
+## Something helped? Leave a star!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kalkmann/Legion-5600H-Hackintosh&type=Date)](https://star-history.com/#kalkmann/Legion-5600H-Hackintosh&Date)
 
 ## Screenshots
 
