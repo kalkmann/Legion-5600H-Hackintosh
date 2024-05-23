@@ -61,13 +61,13 @@ _Information available only for possible references. I do not recommend followin
 | AppleTV+ DRM | ✅ | Work with CFG_LINK_FIXED_MAP=1 (produces a series of GPU-related messages/warnings in the boot log)|
 | iServices | ✅ | Message/Facetime tested and working |
 | Shutdown/Reboot | ✅ |   |
-| Sleep/Wake | ✅ | Finally working with Seey6 [CpuTscSync](https://github.com/Seey6/CpuTscSync "CpuTscSync") and SSDT for USB *It's not foolproof. Using high GPU load and a second external 4K monitor via HDMI, I experienced panics with freezes after waking up.|
+| Sleep/Wake | ✅ | Finally working with Seey6 [CpuTscSync](https://github.com/Seey6/CpuTscSync "CpuTscSync") |
 
 ## What's not Working
 
 | Item | Status | Notes |
 | --- | --- | --- |
-| ❓ |  |   |
+| ❓ | ❓ | In high GPU load and a second external 4K monitor connected via HDMI, I experienced panics with freezes after waking up. |
 
 ## Bios Options
 
@@ -108,7 +108,6 @@ Done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 | --- | --- |
 | [SSDT-EC](https://github.com/corpnewt/SSDTTime) | Adds a fake Embedded Controller device |
 | [SSDT-PLUG-ALT](https://github.com/corpnewt/SSDTTime) | Fixes CPU definitions |
-| SSDT-SLEEP | Prevents instant wake up of USB controllers. (after sleep, wake by pressing the power button) |
 | [SSDT-USBX](https://github.com/corpnewt/SSDTTime) | Enables USB Power Management |
 | [SSDT-XOSI](https://github.com/corpnewt/SSDTTime) | Spoof macOS to Windows for some ACPI features |
 
