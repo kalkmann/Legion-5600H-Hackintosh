@@ -58,10 +58,10 @@ _Information available only for possible references. I do not recommend followin
 | Intel WIFI | ✅ | Sequoia with Itlwm.kext and Heliport app |
 | Bluetooth | ✅ | From Intel AX210 with IntelBluetoothFirmware.kext + BlueToolFixup Kext |
 | Battery | ✅ | VoodooBatteryStatus Kext |
-| AppleTV+ DRM | ✅ | Work with CFG_LINK_FIXED_MAP=1 (produces a series of GPU-related messages/warnings in the boot log)|
+| AppleTV+ DRM | ✅ | Working |
 | iServices | ✅ | Message/Facetime tested and working |
 | Shutdown/Reboot | ✅ |   |
-| Sleep/Wake | ✅ | [ForgedIvariant.kext](https://github.com/ChefKissInc/ForgedInvariant)  |
+| Sleep/Wake | ✅ | [ForgedIvariant.kext](https://github.com/ChefKissInc/ForgedInvariant) & Disable RTC Wake Scheduling patch |
 
 ## What's not Working
 
