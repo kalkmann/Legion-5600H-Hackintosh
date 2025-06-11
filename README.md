@@ -52,7 +52,7 @@ _Information available only for possible references. I do not recommend followin
 | Brightness Control | ✅ | Workaround with [Lunar app](https://lunar.fyi/ "Lunar app") |
 | HDMI A/V out | ✅ | Tested and working in 4K 60Hz Monitor  |
 | USB-C DP | ✅ | DisplayPort working  |
-| USB | ✅ | All ports working with Native Classes in USBToolBox (USBMap.kext) only for Sequoia|
+| USB | ✅ | All ports working with USBToolBox Kext 1.2.0 and UTBMap kext |
 | Keyboard | ✅ | Working without kexts + [Karabiner-Elements app](https://karabiner-elements.pqrs.org/ "Karabiner-Elements app") for mapping |
 | Audio | ✅ | AppleALC kext working with layout-id 21 |
 | P2 Mic | ✅ | Working |
@@ -64,14 +64,13 @@ _Information available only for possible references. I do not recommend followin
 | AppleTV+ DRM | ✅ | Working |
 | iServices | ✅ | Message/Facetime tested and working |
 | Shutdown/Reboot | ✅ |   |
-| Sleep/Wake | ✅ | Working with [ForgedIvariant.kext](https://github.com/ChefKissInc/ForgedInvariant) + USBMap.kext + Disable RTC Wake Scheduling patch only in Sequoia|
+| Sleep/Wake | ✅ | Working with [ForgedIvariant.kext](https://github.com/ChefKissInc/ForgedInvariant) + USB Port Mapping + Disable RTC Wake Scheduling patch only in Sequoia|
 
 ## What's not Working
 
 | Item | Status | Notes |
 | --- | --- | --- |
-| USB Mapping | Broke in Tahoe | Ok in Sequoia |
-| Sleep | Broke in Tahoe | Ok in Sequoia |
+| ❓ | 🤷🏻‍♂️ | Time to test in real life |
 
 ## Bios Options
 
@@ -97,7 +96,8 @@ _Information available only for possible references. I do not recommend followin
 | [SMCProcessorAMD.kext](https://github.com/macos86/SMCProcessorAMD) | VirtualSMC plugin for AMD CPU temperature |
 | [SMCRadeonSensors.kext](https://github.com/ChefKissInc/SMCRadeonSensors) | A VirtualSMC plug-in that provides temperature readings for AMD GPUs |
 | [SMCBatteryManager.kext](https://github.com/acidanthera/VirtualSMC) | Enables battery readings |
-| [USBToolbox](https://github.com/USBToolBox/tool) | Enable “Use Native Classes” in settings and don't use the USBToolBox kext. |
+| [USBToolbox Kext 1.2.0](https://cdn.discordapp.com/attachments/321319496990326784/1382071187156373574/USBToolBox-1.2.0-RELEASE.zip?ex=684a7a58&is=684928d8&hm=914d8d9c0f2c64d229dc3369f0f557b6650809925b820a54f492132a9f471200&) | This release works with Tahoe |
+| [USBToolbox Tool](https://github.com/USBToolBox/tool) | USB mapping tool supporting Windows and macOS |
 | [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | Advanced Apple SMC emulator in the kernel |
 | [VoodooI2C.kext & VoodooU2CHID.kext](https://github.com/VoodooI2C/VoodooI2C) | Fixes trackpad |
 
