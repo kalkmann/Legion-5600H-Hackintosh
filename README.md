@@ -3,7 +3,8 @@
  <h2 align="center">MacOS on Lenovo Legion 5-15ACH6A - Ryzen 5600H &amp; Radeon RX 6600M 🇧🇷</h2>
  <p align="center">Lenovo Legion 5-15ACH6A Type 82NW Opencore EFI and some info for running macOS Sequoia and Tahoe 26 Beta 1. Probably compatible with R70002021A 6600M variant/Legion x60AA Gen AMD. For NVidia Legion variant, try [@ducviet5138 fork](https://github.com/ducviet5138/Hackintosh-Legion-5)</p>
 <p align="center"><img src="https://img.shields.io/badge/Bios-GKCN37WW-blue?logo=lenovo&amp;logoColor=%23fff" alt="Lenovo BIOS" />&nbsp;<img src="https://img.shields.io/badge/Opencore-1.0.5 DEV -black" alt="Opencore Release" />&nbsp;<img src="https://img.shields.io/badge/MacOS-Sequoia 15.5 & Tahoe Beta 1-green?logo=apple&amp;logoColor=%23fff" alt="MacOS Version" /></p>
-<p align="center"><img src="https://github.com/user-attachments/assets/14a0e926-b057-45bd-86be-9ff9ff4597b8" alt="Tahoe Beta 1" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/9730c8f0-ab08-4a13-898b-50c7b3d7519d" alt="Tahoe Beta 1" /></p>
+
 
 
 ## Considerations
