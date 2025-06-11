@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#kalkmann OC 1.0.5 - Sequoia 15.5 - Tahoe Beta 1 - MacBookPro16,3</key>
-	<string>kalkmann 180524</string>
+	<key>#kalkmann OC 1.0.5 - MacOS 15.5&amp;26b1 MacBookPro16,3</key>
+	<string>kalkmann 100625</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -520,7 +520,7 @@
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>24.99.99</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>PlistPath</key>
