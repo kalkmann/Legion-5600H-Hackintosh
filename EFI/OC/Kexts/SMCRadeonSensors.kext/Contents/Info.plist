@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23E224</string>
+	<string>23H124</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>SMCRadeonSensors</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.ChefKiss.SMCRadeonSensors</string>
+	<string>org.ChefKiss.SMCRadeonSensors</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -17,13 +17,15 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.1.0</string>
+	<string>2.3.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.1.0</string>
+	<string>2.3.0</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -31,21 +33,21 @@
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>13.3</string>
+	<string>14.5</string>
 	<key>DTSDKBuild</key>
-	<string>22E245</string>
+	<string>23F73</string>
 	<key>DTSDKName</key>
-	<string>macosx13.3</string>
+	<string>macosx14.5</string>
 	<key>DTXcode</key>
-	<string>1431</string>
+	<string>1540</string>
 	<key>DTXcodeBuild</key>
-	<string>14E300c</string>
+	<string>15F31d</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>com.ChefKiss.SMCRadeonSensors</key>
+		<key>org.ChefKiss.SMCRadeonSensors</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.ChefKiss.SMCRadeonSensors</string>
+			<string>org.ChefKiss.SMCRadeonSensors</string>
 			<key>IOClass</key>
 			<string>SMCRadeonSensors</string>
 			<key>IOMatchCategory</key>
@@ -63,7 +65,7 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2023-2024 ChefKiss. Licensed under the Thou Shalt Not Profit License version 1.5. See https://github.com/ChefKissInc/SMCRadeonSensors/LICENSE for details.</string>
 	<key>OSBundleCompatibleVersion</key>
-	<string>2.1.0</string>
+	<string>2.3.0</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>as.vit9696.Lilu</key>
