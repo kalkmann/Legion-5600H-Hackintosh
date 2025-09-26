@@ -50,15 +50,15 @@ _Information available only for possible references. I do not recommend followin
 | CPU | ✅ | AMD Vanilla Kernel Patches ([Modify according to yours Core Count](https://github.com/AMD-OSX/AMD_Vanilla) / Adjusted MaxKernel to Tahoe) |
 | DGPU | ✅ | With some DeviceProperties |
 | Brightness Control | ✅ | Workaround with [Lunar app](https://lunar.fyi/ "Lunar app") |
-| HDMI A/V out | ✅ | Tested and working in 4K 60Hz Monitor  |
-| USB-C DP | ✅ | DisplayPort working  |
+| HDMI A/V out | ✅ | Working in 4K 60Hz Monitor  |
+| USB-C DP | ✅ | DisplayPort working |
 | USB | ✅ | All ports working with USBToolBox Kext 1.2.0 and UTBMap kext |
 | Keyboard | ✅ | Working without kexts + [Karabiner-Elements app](https://karabiner-elements.pqrs.org/ "Karabiner-Elements app") for mapping |
-| Onboard Audio | ✅ | VoodooHDA ( [chris1111](https://github.com/chris1111/VoodooHDA-Tahoe) |
-| P2 Mic | ✅ | Working |
+| Onboard Audio | ✅ | [chris1111](https://github.com/chris1111/VoodooHDA-Tahoe) VoodooHDA |
+| P2 Mic | ✅ | Not tested with VoodooHDA |
 | Trackpad | ✅ | VoodooI2C + VoodooI2CHID |
 | Ethernet | ✅ | RealtekRTL8111 Kext |
-| Intel WIFI | ✅ | Sequoia with Itlwm.kext and Heliport app |
+| Intel WIFI | ✅ | With Itlwm.kext and Heliport app |
 | Bluetooth | ✅ | From Intel AX210: Logitech MX Master 3S working with IntelBluetoothFirmware + IntelBTPatcher + BlueToolFixup from [here](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/issues/486 "here") |
 | Battery | ✅ | VoodooBatteryStatus Kext |
 | AppleTV+ DRM | ✅ | Working |
